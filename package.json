@@ -1,0 +1,21 @@
+{
+  "name": "sensibull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chintan Patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8",
+    "node-cron": "^3.0.1",
+    "uuid": "^8.3.2"
+  }
+}
